@@ -1,4 +1,4 @@
 # Practice
 This my first practice repository
 <br>
-Author : Bilal Shahid
+Author : Bilal Shahid (Practice)
